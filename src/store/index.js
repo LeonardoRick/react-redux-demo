@@ -47,5 +47,5 @@ export default store;
 //     }
 // };
 
-// const store = createSlice(counterReducer);
+// const store = createStore(counterReducer);
 // export default store;
